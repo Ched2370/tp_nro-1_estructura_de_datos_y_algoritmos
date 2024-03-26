@@ -15,7 +15,6 @@ int main() {
     int temp_max = -100; 
     int temp_min = 100; 
 
-    // Leer las temperaturas
     for (int i = 0; i < NUM_T; ++i) {
         cout << "Ingrese la temperatura exterior cada 4 horas: "; cin >> temps[i];
         suma += temps[i];

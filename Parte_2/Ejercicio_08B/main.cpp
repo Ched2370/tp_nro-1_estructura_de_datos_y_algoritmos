@@ -12,6 +12,7 @@ c) Alumnos que aprobaron únicamente el último examen.
 
 int main() {
 	cout << "\t***EJERCICIO 8B***" << endl;
+	
     const int NUM_ALUMS = 5;
     int calif[NUM_ALUMS][3]; 
     int opc;

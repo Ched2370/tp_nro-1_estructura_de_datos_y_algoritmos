@@ -15,7 +15,7 @@ int main() {
     int suma_w = 0;
     int suma_f = 0;
 
-    cout << "Ingrese un número entero positivo: "; cin >> n;
+    cout << "Ingrese un numero entero positivo: "; cin >> n;
 
     int i = 1;
     while (i <= n) {

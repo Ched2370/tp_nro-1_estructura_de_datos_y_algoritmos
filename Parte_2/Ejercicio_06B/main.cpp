@@ -29,7 +29,7 @@ int main() {
         }
         cout << num << "^" << exp << " = " << res << endl;
     } else {
-        cout << "Exponente ingresado no válido. Debe ser no mayor a 5." << endl;
+        cout << "Exponente ingresado no valido. No debe ser mayor a 5." << endl;
     }
 
 	getch();
